@@ -1,0 +1,10 @@
+.imagenfondo {  
+  position:fixed;
+  height: 100%;  
+  width: 100%;
+  padding-top: 40px;    
+  background-image: url("../../../assets/fondo.png");  
+  background-size: cover;  
+  background-repeat: no-repeat;  
+  color: #ffffff;  
+}
